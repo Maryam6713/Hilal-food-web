@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+a{
+    color: rgb(228, 19, 19);
+}
+i{
+    color: rgb(219, 28, 28);
+    font-size: 200%;
+}
+h2{
+    font-size: 250%;
+}
+p{
+    font-size: 1.5em;
+}
+.btn-2{
+    border-radius: 1px;
+    
+}
+.section-four{
+    margin-top: 5%;
+}
+i{
+    color: rgb(214, 24, 24);
+    font-size: 250%;
+}
+.box{
+    
+    
+    background-color: rgb(224, 22, 22);
+    border-radius: 20px;
+}
+.btn-3{
+    border-radius: 1px;
+}
+.btn-4{
+    border-radius: 1px;
+
+}
+label{
+    color: white;
+}
+.last{
+    margin-top: 10%;
+}
